@@ -180,7 +180,7 @@ La aplicación utiliza animaciones nativas sin librerías externas:
 
 | Notificación de Voto Único |
 | :---: |
-| ![Voto Duplicado Rechazado](docs/evidencias/03_voto_duplicado.png) |
+|<img width="959" height="408" alt="image" src="https://github.com/user-attachments/assets/fa09138a-0572-4733-b10e-fe3032f44ac0" /> |
 
 ---
 
