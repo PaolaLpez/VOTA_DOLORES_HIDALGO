@@ -161,7 +161,8 @@ La aplicación utiliza animaciones nativas sin librerías externas:
 
 | Vista Inicial de la Encuesta |
 | :---: |
-| ![Pantalla Principal](docs/evidencias/01_pantalla_principal.png) |
+| <img width="959" height="482" alt="image" src="https://github.com/user-attachments/assets/a30e61db-06cb-4ea9-8594-d3bc62f0b41b" />
+ |
 
 ---
 
@@ -170,7 +171,8 @@ La aplicación utiliza animaciones nativas sin librerías externas:
 
 | Votación y Animación de Barras |
 | :---: |
-| ![Barras Animadas](docs/evidencias/02_barras_animadas.png) |
+| <img width="959" height="408" alt="image" src="https://github.com/user-attachments/assets/32a72b81-bb72-4ce9-a154-8e7e2adf7800" />
+ |
 
 ---
 
@@ -188,7 +190,9 @@ La aplicación utiliza animaciones nativas sin librerías externas:
 
 | Ganador Revelado / Caso de Empate |
 | :---: |
-| ![Resultado del Plebiscito](docs/evidencias/04_ganador_animado.png) |
+| <img width="959" height="457" alt="image" src="https://github.com/user-attachments/assets/5339d35f-a2e4-4dc1-9768-7bbac095dfbe" />
+| <img width="959" height="408" alt="image" src="https://github.com/user-attachments/assets/fa09138a-0572-4733-b10e-fe3032f44ac0" />
+
 
 ---
 
@@ -197,7 +201,8 @@ La aplicación utiliza animaciones nativas sin librerías externas:
 
 | Resultado de `flutter test` (10 tests en verde) |
 | :---: |
-| ![Pruebas en Consola](docs/evidencias/05_flutter_test_exitoso.png) |
+| <img width="354" height="40" alt="image" src="https://github.com/user-attachments/assets/5315c58f-9036-4132-8abc-11b4d289ebf1" />
+ |
 
 ---
 
@@ -206,15 +211,7 @@ La aplicación utiliza animaciones nativas sin librerías externas:
 
 | Resultado de `flutter analyze` |
 | :---: |
-| ![Análisis de Código](docs/evidencias/06_flutter_analyze.png) |
+| <img width="366" height="58" alt="image" src="https://github.com/user-attachments/assets/c72d0a91-2a3b-4d02-8f0c-b75002bc850e" />
+ |
 
 ---
-
-## 👨‍💻 Datos de la Entrega
-
-* **Materia:** Desarrollo Móvil Integral
-* **Actividad:** Proyecto Complementario de Práctica TDD — Vota Dolores Hidalgo
-* **Alumno(s):** *[Tu Nombre Aquí]*
-* **Profesor / Asesor:** *[Nombre del Profesor]*
-* **Fecha:** *[Fecha de Entrega]*
-* **Estado del Proyecto:** ✅ Concluido y Verificado al 100%
