@@ -19,7 +19,6 @@ Aplicación móvil desarrollada en **Flutter** para la consulta ciudadana en el 
 6. [Animaciones e Interfaz Gráfica](#-animaciones-e-interfaz-gráfica)
 7. [Instrucciones de Instalación y Ejecución](#-instrucciones-de-instalación-y-ejecución)
 8. [📸 Evidencias de la Aplicación](#-evidencias-de-la-aplicación)
-9. [Datos de la Entrega](#-datos-de-la-entrega)
 
 ---
 
